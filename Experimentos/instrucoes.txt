@@ -1,0 +1,11 @@
+Para rodar basta clicar em run all, o usuário pode se sentir a vontade para mudar parâmetrose para testar o experimento
+
+NN apresenta duas versões com e sem dateleakage
+Decision Tree apresenta duas versões com e sem dateleakage
+XGBoost apresenta duas versões com e sem dateleakage
+Random forest apresenta duas versões com e sem dateleakage
+Neural Network apresenta duas versões com e sem dateleakage
+Naive Bayes apresenta duas versões com e sem dateleakage
+SVM apresenta duas versões com e sem dateleakage
+Regressão logistica apresenta uma versão onde no código possuímos uma flag para o usuário selecionar se quer
+rodar o teste com ou sem dataleakage
