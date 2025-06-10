@@ -10,4 +10,4 @@ Foram utilzados um total de 8 algoritmos, sendo eles:
 - Gradient Boosting (XGBoost)
   
 
-Importante: Utilizamos duas variações de algoritmos uma versão tratando o dataleakage e outra não, para que o usuário possa realizar os mesmos experimentos que reportamos no artigo é importante que siga as orientações descritas na dentro da pasta experimentos.
+*Importante: Utilizamos duas variações de algoritmos uma versão tratando o dataleakage e outra não, para que o usuário possa realizar os mesmos experimentos que reportamos no artigo é importante que siga as orientações descritas na dentro da pasta experimentos.
